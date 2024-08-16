@@ -1,5 +1,5 @@
 ### Introduction
-In our ICLR2024 paper "Spurious Feature Diversification Improves Out-of-distribution Generalization", we found that learning diverse spurious features actually improves OOD generalizations, which can be effectively applied to modern (large) DNN. We also have a follow-up work on Large Language works on [Mitigating the Alignment Tax of RLHF](https://arxiv.org/abs/2309.06256) .
+In our ICLR2024 paper [Spurious Feature Diversification Improves Out-of-distribution Generalization](https://openreview.net/forum?id=d6H4RBi7RH), we found that learning diverse spurious features actually improves OOD generalizations, which can be effectively applied to modern (large) DNN. We also have a follow-up work on Large Language works on [Mitigating the Alignment Tax of RLHF](https://arxiv.org/abs/2309.06256) .
 
 ### Run the codes
 Run the following cmd to reproduce the results on MultiColorMNIST in Table 1 (p=0.7)
