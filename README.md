@@ -3,6 +3,7 @@ In our ICLR2024 paper "Spurious Feature Diversification Improves Out-of-distribu
 
 ### Run the codes
 Run the following cmd to reproduce the results on MultiColorMNIST in Table 1 (p=0.7)
+
 `python submit_main.py --seed 1 --id_sp 1.0 --p 0.7 --n_restarts 20 --colors 32`
 
 The arguement
